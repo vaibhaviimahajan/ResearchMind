@@ -186,7 +186,6 @@ http://localhost:8501
 * Multi-source content aggregation
 * Citation-aware report generation
 * PDF export
-* LangGraph-based workflow orchestration
 * Conversation memory
 * Persistent research history
 * Parallel agent execution
